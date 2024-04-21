@@ -4,7 +4,7 @@ const { MongoClient } = require('mongodb');
 const mongoURI = process.env.STRING;
 // 'mongodb://127.0.0.1:27017'
 
-let db;
+let db; 
 
 async function connectToDatabase(databaseName) {
     if (db) return db;
