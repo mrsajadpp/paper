@@ -30,10 +30,6 @@ module.exports = {
         value: 'Huge thanks to <@895652387782549574> for contributing to the development of this project. 🚀 Your expertise has been instrumental in making it a success!',
       },
       {
-        name: 'Helping Hands',
-        value: 'A warm thank you to <@963319276368957490> for lending a helping hand when it was needed the most. 🤝 Your support has made a significant difference!',
-      },
-      {
         name: 'Media Partner',
         value: 'Special thanks to our media partner, [thintry.com](https://thintry.com), for their collaboration and support. 🌐',
       }
