@@ -36,10 +36,6 @@ module.exports = {
       {
         name: 'Media Partner',
         value: 'Special thanks to our media partner, [thintry.com](https://thintry.com), for their collaboration and support. 🌐',
-      },
-      {
-        name: 'Special Thanks',
-        value: 'Big shoutout to <@875614654724968468> for being an amazing host and providing valuable support! 💖 Your assistance is truly appreciated.',
       }
     );
 
